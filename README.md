@@ -5,6 +5,7 @@ A collection of functions I have found useful, written (mostly) by me. These wil
 
 - [Simple API Interaction](https://github.com/NicCandau/UsefulFunctions/blob/main/python/SimpleAPIInteraction.py)
 - [Flask Introduction](https://github.com/NicCandau/UsefulFunctions/blob/main/python/FlaskIntro.py)
+- [Simple REST API](https://github.com/NicCandau/UsefulFunctions/blob/main/python/SimpleRestAPI.py)
 
 ## Java
 
