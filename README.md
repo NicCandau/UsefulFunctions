@@ -10,3 +10,4 @@ A collection of functions I have found useful, written (mostly) by me. These wil
 ## Java
 
 - [JSON to Java Object Converter](https://github.com/NicCandau/UsefulFunctions/blob/main/java/JSONConverter.java)
+- [Simple Object Serialisation](https://github.com/NicCandau/UsefulFunctions/blob/main/java/SerialisationExample.java)
