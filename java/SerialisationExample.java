@@ -36,7 +36,7 @@ public class SerialisationExample {
     /**
      * The 'load' method deserialises a 'Person' object from a file.
      */
-    public static Person loadGame() throws IOException, ClassNotFoundException{
+    public static Person loadPerson() throws IOException, ClassNotFoundException{
         // Check that the file exists.
         if (!saveFile.exists()){
             throw new FileNotFoundException("Save file does not exist");
